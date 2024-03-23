@@ -10,7 +10,7 @@ from snowflake.connector.pandas_tools import write_pandas
 #Database Connection details
 snowflake_cn = connect(
             user="Sainath",
-            password='Aiq_Sales_Analysis1',
+            password='###########',
             role="ACCOUNTADMIN",
             account="zghrtlg-ux53095",
             database='AIQ_KLANIK_ASSIGNMENT',
